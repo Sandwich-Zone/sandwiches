@@ -2,6 +2,7 @@
 
 1. [Banh Mi](./Banh-Mi.md) - A vietnamese sandwich with barbeque pork and pickled carrots on a baguette.
 2. [BLT](./BLT.md) - A traditional American sandwich made with bacon, lettuce, and tomato
+3. [Turkey Chutney](./Turkey-Chutney.md) - A classic sandwich copied from a local bakery's menu.
 
 ## Background
 
@@ -10,4 +11,3 @@ Named after John Montagu, 4th Earl of Sandwich, the sandwich as a food item is a
 ## Contributing
 
 Please make pull requests by adding your markdown sandwich recipe and also adding a title, link, and description as part of this `README.md`. Add your recipe in alphabetical order. All pull requests will be subject to evaluation of taste and *'sandwich-ness'*.
-
