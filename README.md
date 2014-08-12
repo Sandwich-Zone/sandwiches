@@ -1,6 +1,6 @@
 # Sandwiches
 
-1. [Banh Mi](./banh-mi.md) - A vietnamese sandwich with barbeque pork and pickled carrots on a baguette.
+1. [Banh Mi](./Banh-Mi.md) - A vietnamese sandwich with barbeque pork and pickled carrots on a baguette.
 
 ## Background
 
