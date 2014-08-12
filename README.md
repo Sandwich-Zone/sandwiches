@@ -1,6 +1,7 @@
 # Sandwiches
 
 1. [Banh Mi](./Banh-Mi.md) - A vietnamese sandwich with barbeque pork and pickled carrots on a baguette.
+2. [Baja Fish Taco](./Baja_Fish_Taco.md) - There is nothing else like it in the world but this recipe will get you close if you can find fish fresh enough.
 
 ## Background
 
