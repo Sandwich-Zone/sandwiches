@@ -3,6 +3,7 @@
 1. [Banh Mi](./Banh-Mi.md) - A vietnamese sandwich with barbeque pork and pickled carrots on a baguette.
 2. [BLT](./BLT.md) - A traditional American sandwich made with bacon, lettuce, and tomato
 3. [Turkey Chutney](./Turkey-Chutney.md) - A classic sandwich copied from a local bakery's menu.
+4. [Turkey Cranberry](./Turkey-Cranberry.md) - A traditional post-Thanksgiving leftover sandwich with brined turkey.
 
 ## Background
 
