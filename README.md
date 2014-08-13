@@ -9,7 +9,7 @@
 
 ## Background
 
-Named after John Montagu, 4th Earl of Sandwich, the sandwich as a food item is a staple of the modern diet. While definitions of a sandwich are notoriously contentious and difficult to pin down (see [this article](https://medium.com/@kmikeym/is-this-a-sandwich-50b1317eb3f5) and join [this beta program](http://www.isthisasandwich.com/) to learn more about and aid in defining sandwiches), this repository serves as a collection of recipes that are generally aggreed upon to be sandwiches.
+Named after John Montagu, 4th Earl of Sandwich, the sandwich as a food item is a staple of the modern diet. While definitions of a sandwich are notoriously contentious and difficult to pin down, this repository serves as a collection of recipes that are generally aggreed upon to be sandwiches.
 
 ## Contributing
 
