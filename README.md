@@ -19,5 +19,5 @@ Please make pull requests by adding your markdown sandwich recipe and also addin
 
 http://creativecommons.org/publicdomain/zero/1.0/
 
-This work is dedicated to the public domain. Please see [./LICENSE.md](LICENSE) and [./CONTRIBUTING.md](CONTRIBUTING) for more information.
+This work is dedicated to the public domain. Please see [LICENSE](./LICENSE.md) and [CONTRIBUTING](./CONTRIBUTING.md) for more information.
 
