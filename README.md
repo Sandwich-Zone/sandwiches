@@ -13,4 +13,4 @@ Named after John Montagu, 4th Earl of Sandwich, the sandwich as a food item is a
 
 ## Contributing
 
-Please make pull requests by adding your markdown sandwich recipe and also adding a title, link, and description as part of this `README.md`. Add your recipe in alphabetical order. All pull requests will be subject to evaluation of taste and *'sandwich-ness'*.
+Please make pull requests by adding your markdown sandwich recipe and also adding a title, link, and description as part of this `README.md`. Add your recipe in alphabetical order. All pull requests will be subject to evaluation of taste and *'sandwich-ness'*. Consider reading [Is This a Sandwich?](https://medium.com/@kmikeym/is-this-a-sandwich-50b1317eb3f5) by Mr. Mike Merrill if you are unsure whether your contribution is actually a sandwich.
