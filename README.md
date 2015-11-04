@@ -4,7 +4,7 @@
 0. [Banh Mi](./Banh-Mi.md) - A vietnamese sandwich with barbeque pork and pickled carrots on a baguette
 0. [BLT](./BLT.md) - A traditional American sandwich made with bacon, lettuce, and tomato
 0. [Chipotle Chicken](./Chipotle-Chicken.md) - Spicy south-west inspired sandwich with chicken and bacon
-0. [Classic Breakfast](./Classic-Breakfast.md) - Similar to the Classic Breakfast sandwich, but served on an English Muffin
+0. [Classic Breakfast](./Classic-Breakfast.md) - Similar to the Bacon, Egg, and Cheese sandwich, but served on an English Muffin
 0. [Elvis](./Elvis.md) - Elvis' own recipe for a hunk a' hun a' sandwich
 0. [Grilled Cheese](./Grilled-Cheese.md) - A classic grilled sandwich
 0. [Turkey Chutney](./Turkey-Chutney.md) - A classic sandwich copied from a local bakery's menu
